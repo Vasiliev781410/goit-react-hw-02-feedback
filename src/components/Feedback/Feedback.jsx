@@ -2,7 +2,7 @@ import { Component } from "react";
 import { Section } from "components/Section/Section.jsx";
 import { Statistics } from "components/Statistics/Statistics.jsx";
 import { FeedbackOptions } from "components/FeedbackOptions/FeedbackOptions.jsx";
-import {Notification} from "components/Notification/Notification.jsx"
+import {Notification} from "components/Notification/Notification.jsx";
 
 export class Feedback extends Component {
     state = {
